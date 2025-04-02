@@ -14,4 +14,4 @@ class Retangulo {
 }
 
 const retangulo = new Retangulo(10, 5);
-retangulo.exibirArea(); // Saída: A área do retângulo é: 50
+retangulo.exibirArea(); 

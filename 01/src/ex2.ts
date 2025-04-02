@@ -25,7 +25,6 @@ class TodoList {
     }
 }
 
-// Exemplo de uso
 const minhaLista = new TodoList();
 minhaLista.adicionarTarefa("Estudar TypeScript");
 minhaLista.adicionarTarefa("Fazer exercícios de POO");

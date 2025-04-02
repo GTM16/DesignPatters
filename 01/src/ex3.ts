@@ -70,7 +70,6 @@ class Banco {
     }
 }
 
-// Exemplo de uso
 const banco = new Banco();
 banco.criarConta(123, 1000);
 banco.depositar(123, 500);
